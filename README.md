@@ -6,6 +6,8 @@ This resource covers starting a Vanilla JS project using Vite.
 - [Setup](#setup)
 - [Clean Up The Repo](#clean-up-the-repo)
 
+[🎥 Watch the lecture on this topic!](https://www.youtube.com/watch?v=UnsukVi6hJY&ab_channel=TheMarcyLabSchool)
+
 ## Vite Overview
 
 **Objective(s)**: Learn key terms used when discussing Vite. 
